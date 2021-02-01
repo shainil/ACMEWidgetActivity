@@ -1,0 +1,38 @@
+<div class="container custom-container-2">
+
+    <!-- Show it when there is no employee -->
+    <div class="no-data text-center" *ngIf="Employee.length == 0">
+      <p>There is no employee added yet!</p>
+      <button class="btn btn-outline-primary" routerLink="/signup">Add Empoyee</button>
+    </div>
+  
+    <!-- Employees list table, it hides when there is no employee -->
+    <div *ngIf="Employee.length !== 0">
+      <h3 class="mb-3 text-center">Employees List</h3>
+  
+      <div class="col-md-12">
+        <table class="table table-striped">
+          <thead>
+            <tr>
+              <th scope="col">First Name</th>
+              <th scope="col">Last Name</th>
+              <th scope="col">Email</th>
+              <th scope="col">Activity</th>
+              <th scope="col">Comments</th>
+            </tr>
+          </thead>
+          <tbody>
+            <tr *ngFor="let employee of Employee">
+              <td>{{employee.FirstName}}</td>
+              <td>{{employee.LastName}}</td>
+              <td>{{employee.Email}}</td>
+              <td>{{employee.Activity}}</td>
+              <td>{{employee.Comments}}</td>              
+            </tr>
+          </tbody>
+        </table>
+      </div>
+  
+    </div>
+  
+  </div>

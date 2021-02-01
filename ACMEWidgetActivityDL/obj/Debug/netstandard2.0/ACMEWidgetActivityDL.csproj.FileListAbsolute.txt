@@ -1,0 +1,9 @@
+C:\Users\shainil.sagar\source\repos\OCAS Assignment\ACMEWidgetActivityDL\bin\Debug\netstandard2.0\ACMEWidgetActivityDL.deps.json
+C:\Users\shainil.sagar\source\repos\OCAS Assignment\ACMEWidgetActivityDL\bin\Debug\netstandard2.0\ACMEWidgetActivityDL.dll
+C:\Users\shainil.sagar\source\repos\OCAS Assignment\ACMEWidgetActivityDL\bin\Debug\netstandard2.0\ACMEWidgetActivityDL.pdb
+C:\Users\shainil.sagar\source\repos\OCAS Assignment\ACMEWidgetActivityDL\obj\Debug\netstandard2.0\ACMEWidgetActivityDL.AssemblyInfoInputs.cache
+C:\Users\shainil.sagar\source\repos\OCAS Assignment\ACMEWidgetActivityDL\obj\Debug\netstandard2.0\ACMEWidgetActivityDL.AssemblyInfo.cs
+C:\Users\shainil.sagar\source\repos\OCAS Assignment\ACMEWidgetActivityDL\obj\Debug\netstandard2.0\ACMEWidgetActivityDL.csproj.CoreCompileInputs.cache
+C:\Users\shainil.sagar\source\repos\OCAS Assignment\ACMEWidgetActivityDL\obj\Debug\netstandard2.0\ACMEWidgetActivityDL.dll
+C:\Users\shainil.sagar\source\repos\OCAS Assignment\ACMEWidgetActivityDL\obj\Debug\netstandard2.0\ACMEWidgetActivityDL.pdb
+C:\Users\shainil.sagar\source\repos\OCAS Assignment\ACMEWidgetActivityDL\obj\Debug\netstandard2.0\ACMEWidgetActivityDL.csprojAssemblyReference.cache
